@@ -1,3 +1,26 @@
+## rqt_py_console (noetic) - 0.4.8-1
+
+The packages in the `rqt_py_console` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_py_console` on `Tue, 17 Mar 2020 18:26:45 -0000`
+
+The `rqt_py_console` package was released.
+
+Version of package(s) in repository `rqt_py_console`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_py_console.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_py_console (melodic) - 0.4.8-0
 
 The packages in the `rqt_py_console` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_py_console` on `Wed, 21 Mar 2018 16:12:57 -0000`
